@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/$USER/AwesomeAutoNews/AutoNews.py
+Icon=/home/$USER/AwesomeAutoNews/Icons/icon1.png
+Name[en_IN]=AwesomeAutoNews
+Name=AwesomeAutoNews
+Type=Application
