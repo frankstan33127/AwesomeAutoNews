@@ -1,6 +1,6 @@
 # AwesomeAutoNews
 
-## An application to recieve automatic updates about anything!
+## An application to receive automatic updates about anything!
 This application is a program which can let you recieve updates about pretty much anything and you can set it to be fully automatic or partially automatic.
 
 ## Prerequisites
@@ -21,7 +21,7 @@ the source code, will make a more compatible version in the future), takes a scr
 
 3. The screenshot images are automatically removed upon closing but a manual button is also present just in case. The images are automatically removed to prevent any conflict.
 
-4. The automatic version asks you for input the first time after which, everytime it is opened, it will automatic search without having to ask for input. There is a reset and 
+4. The automatic version asks you for input the first time after which everytime it is opened, it will automatically search without having to ask for input. There is a reset and 
 set button to change the initial search query that had been set. To do this, first press reset and type in the query and press set.
 
 5. A timer bash script is present which automatically opens the python application every x min/hour/etc and for a set number of times. This script can be added to the startup
