@@ -36,7 +36,7 @@ properly.
 
 1. Clone this repo by using the command, `git clone https://github.com/frankstan33127/AwesomeAutoNews.git` while in your home/user/ directory in the terminal.
 
-2. Change the path of ICON in the desktop entry to make it working. And you're good to go!
+2. Change the path of ICON in the desktop entry to make it working (specifically change $USER in the path to the name of your user directory). And you're good to go!
 
 3. You can add this script in the startup to make it run after every boot.
 
@@ -44,7 +44,9 @@ properly.
 
 ## Notes
 
-1. Feel free to modify, redistribute, reproduce, etc this project. 
+1. This works only with python 3. If the python command in your system in `python` instead of `python3` then change it in the .sh files from python3 to python.
 
-1. All the icons were created by myself.
+2. Feel free to modify, redistribute, reproduce, etc this project. 
+
+3. All the icons were created by myself.
 
